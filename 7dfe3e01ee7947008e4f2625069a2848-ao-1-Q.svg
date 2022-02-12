@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1473" height="958">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="7dfe3e01ee7947008e4f2625069a2848-ao-1" height="76.08696" width="191.30435" y="39.65219" x="1004.65212" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect id="7dfe3e01ee7947008e4f2625069a2848-ao-2" height="45.65217" width="117.39131" y="128.78263" x="1054.65212" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="7dfe3e01ee7947008e4f2625069a2848-ao-3" y="220.08698" x="1243.78256" stroke-width="0" fill="#000000">nhô (lồi ức)</text>
+  <rect stroke="#2D2D2D" id="7dfe3e01ee7947008e4f2625069a2848-ao-4" height="39.13044" width="136.95649" y="250.52176" x="1148.1304" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="7dfe3e01ee7947008e4f2625069a2848-ao-5" height="60.86957" width="165.21739" y="307.0435" x="1128.56517" fill="#FFEBA2"/>
+  <rect id="7dfe3e01ee7947008e4f2625069a2848-ao-6" height="41.30435" width="193.47826" y="191.82611" x="1108.99995" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>

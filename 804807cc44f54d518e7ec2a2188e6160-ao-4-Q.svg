@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="834" height="682">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="804807cc44f54d518e7ec2a2188e6160-ao-1" height="87.5" width="287.49999" y="111.56248" x="35.06248" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="804807cc44f54d518e7ec2a2188e6160-ao-2" height="59.375" width="292.18749" y="220.93748" x="17.87498" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" id="804807cc44f54d518e7ec2a2188e6160-ao-3" height="165.625" width="196.875" y="342.81248" x="135.06248" fill="#FFEBA2"/>
+  <rect id="804807cc44f54d518e7ec2a2188e6160-ao-4" height="70.3125" width="256.25" y="556.87497" x="86.62498" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+ </g>
+</svg>

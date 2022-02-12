@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1171" height="802">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-1" height="83.33334" width="175.92593" y="440.37041" x="348.4814" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-2" height="70.37037" width="174.07408" y="399.62967" x="631.81474" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-3" height="75.92593" width="181.48149" y="512.59263" x="605.88881" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-4" height="51.85185" width="248.14816" y="748.29634" x="187.37028" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-5" height="44.44445" width="75.92593" y="266.81485" x="1033.66661" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-6" height="38.88889" width="88.88889" y="327.92596" x="1013.29623" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-7" height="40.74074" width="72.22222" y="381.62967" x="1026.2592" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-8" height="35.18519" width="85.18519" y="444.59263" x="1033.66661" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-9" height="37.03704" width="233.33334" y="174.22225" x="931.81475" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-10" height="44.44445" width="68.51852" y="105.70373" x="915.14808" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-11" height="44.44445" width="107.40741" y="50.00003" x="916.99994" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <rect id="53eeebc00689402595608da8dc26bd47-ao-13" height="46.2963" width="218.51853" y="12.96299" x="405.88881" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <ellipse stroke="#2D2D2D" ry="40.74074" rx="87.03704" id="53eeebc00689402595608da8dc26bd47-ao-14" cy="312.963" cx="346.62955" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="53eeebc00689402595608da8dc26bd47-ao-15" y="118.51855" x="111.44435" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Đỏ: nguyên ủy</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="53eeebc00689402595608da8dc26bd47-ao-16" y="151.85188" x="109.59251" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Xanh: bám tận</text>
+ </g>
+</svg>
